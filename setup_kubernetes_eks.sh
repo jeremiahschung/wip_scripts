@@ -6,6 +6,8 @@
 
 
 # Preparation steps needed:
+# cloned the TorchServe repo 
+#   git clone https://github.com/pytorch/serve
 # Configure templates/eks_cluster.yaml wth desired cluster name/region/instance properties
 # Configure setup_efs.sh with the cluster name from above and the MOUNT_TARGET_GROUP_NAME
 # Configure templates/efs_pv_claim.yaml
