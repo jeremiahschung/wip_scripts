@@ -2,7 +2,7 @@
 
 set -ex
 
-AZURE_SUBSCRIPTION_ID=b48a7187-f0b1-4b88-80b6-e776f65bfd6f
+AZURE_SUBSCRIPTION_ID=
 CLUSTER_NAME=torchserveCluster
 RESOURCE_GROUP_NAME=torchserveResourceGroup
 
